@@ -49,6 +49,7 @@ epic_tragedy = {
         :name => "Nurse",
         :age => "44",
         :attitude => "worried"
-      }
+      
     ]
   }
+}
